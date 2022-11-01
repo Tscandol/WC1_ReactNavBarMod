@@ -4,9 +4,6 @@ Realised as a personnal project.
 If you want to use this repo please check versions used in package.json , Also this project needs react-scripts / react-icons / react-router-dom packages to be installed.
 If you want to see it live, check out my personal portflio at :
 
-
-![Navbar01Pic](https://user-images.githubusercontent.com/71343777/199241080-cfb7895c-f1f7-4eff-a70b-efd4981a39fa.jpg)
-  
-    
       
       
+![Navbar01Pic](https://user-images.githubusercontent.com/71343777/199241242-94ed7a2e-e9e8-40b9-bd0d-d6bf3ed7e7f7.jpg)
